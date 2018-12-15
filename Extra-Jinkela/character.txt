@@ -1,0 +1,6 @@
+name=Extra-Jinkela
+image=avatar.jpg
+author=Extratropical Cyclone
+
+
+Version: 20150704
